@@ -30,9 +30,12 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-Add Code here
+data=eval(input()) sort=dict(sorted(data.items())) print("Keys and Values sorted in alphabetical order by the key") for key, value in sort.items(): print(f"({key}, {value}) ",end="")
 
 ## Sample Output
+<img width="1190" height="110" alt="image" src="https://github.com/user-attachments/assets/3432f5ce-5180-41e2-aa11-8658d5dbf190" />
+
 
 ## Result
+Thus the program executed successfully.
 
